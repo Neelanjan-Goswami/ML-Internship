@@ -1,4 +1,4 @@
-# ML-Internship-B
+# Machine Learning Internship
 https://internship.internshipstudio.com/course-status/
 
 The car data set:

@@ -1,7 +1,7 @@
 # Machine Learning Internship
 https://internship.internshipstudio.com/course-status/
 
-The car data set:
+The car dataset:
 https://www.kaggle.com/CooperUnion/cardataset
 
 Context:
